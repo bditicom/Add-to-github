@@ -1,0 +1,14 @@
+git config --global user.name “bditicom”
+git config --global user.email “bditi.com@gmail.com”
+use
+1.() 
+2. Name
+3. Nmae123
+4. Rahul_islam
+5. Nmae_123
+6._name4
+7. print
+not use
+1. Rahul ISlam 
+2.1234566amer 
+3.2154_akmar
